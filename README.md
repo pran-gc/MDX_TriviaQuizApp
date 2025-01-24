@@ -10,15 +10,12 @@ Before you begin, make sure you have the following tools installed on your machi
 
 ### 1. Visual Studio Code
 If you haven’t already installed Visual Studio Code, download it from the [Visual Studio Code website](https://code.visualstudio.com/).  
-**Version**: 1.96.4
 
 ### 2. Visual Studio
 If you haven’t already installed Visual Studio, download it from the [Visual Studio downloads page](https://visualstudio.microsoft.com/downloads/).  
-**Version**: X.YY.ZZ
 
 ### 3. Postman
 If you haven’t already installed Postman, download it from the [Postman website](https://www.postman.com/downloads/).  
-**Version**: 11.28.4
 
 ---
 
