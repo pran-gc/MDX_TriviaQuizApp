@@ -32,3 +32,8 @@ You can access the TriviaQuizApp sample code in one of the following ways:
 - **Clone using Git**: Run the following command in your terminal:
   ```bash
   git clone https://github.com/pran-gc/MDX_TriviaQuizApp.git
+
+## Authors
+This application was designed by
+#### Pranav Gupta Chummun
+#### Giovanni Manbode
