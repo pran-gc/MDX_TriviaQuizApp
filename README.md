@@ -30,6 +30,31 @@ You can access the TriviaQuizApp sample code in one of the following ways:
   ```bash
   git clone https://github.com/pran-gc/MDX_TriviaQuizApp.git
 
+### 2. Open the Frontend Solution
+1. Navigate to the `frontend` folder.  
+2. Open the folder in **Visual Studio Code**.
+
+### 3. Open the Backend Solution
+1. Navigate to the `backend` folder.  
+2. Open the solution file (`.sln`) in **Visual Studio**.
+
+### 4. Build the Solution
+- **Backend**: Build the solution in **Visual Studio**.
+
+### 5. Launch the Solution
+1. Start the backend solution from **Visual Studio**.  
+2. Open the `index.html` file located in the `frontend` folder:  
+   - **Option 1**: Open it directly in your browser.  
+   - **Option 2**: Use the **Live Server** extension in **Visual Studio Code**.
+
+---
+
+## Usage
+1. Open the frontend in your browser.  
+2. Interact with the TriviaQuizApp.
+
+---
+
 ## Authors
 This application was designed by
 #### Pranav Gupta Chummun
