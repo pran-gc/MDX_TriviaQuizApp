@@ -11,6 +11,11 @@ window.onload = function () {
         window.location.href = './pages/login.html';
     }
 
+    //TO DO: Implement the new quiz functionality
+    document.getElementById('new-quiz-button').onclick = function () {
+        alert('This has yet to be implemented.');
+    };
+
     // Fetch categories and display them in a dropdown
     fetch('https://opentdb.com/api_category.php')
         .then(response => response.json())
