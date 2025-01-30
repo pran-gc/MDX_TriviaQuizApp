@@ -47,6 +47,8 @@ You can access the TriviaQuizApp sample code in one of the following ways:
    - **Option 1**: Open it directly in your browser.  
    - **Option 2**: Use the **Live Server** extension in **Visual Studio Code**.
 
+### 6. Follow the Guide
+1. [Google Link](https://shorturl.at/eCEC3)
 ---
 
 ## Usage
